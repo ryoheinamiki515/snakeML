@@ -1,9 +1,6 @@
 import cv2
 import numpy as np
 from PIL import Image
-import curses
-import time
-
 
 count = 0
 SHOW = 10000
