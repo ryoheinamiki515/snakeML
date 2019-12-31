@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca663ad4-3b65-4fbf-98b9-d9d15ef0de4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snakeGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakeGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -84,22 +91,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1668" height="251" key="GridCell.Tab.0.bottom" timestamp="1577741561771">
+    <state width="1668" height="251" key="GridCell.Tab.0.bottom" timestamp="1577769389966">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1668" height="251" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1577741561771" />
-    <state width="1668" height="251" key="GridCell.Tab.0.center" timestamp="1577741561770">
+    <state width="1668" height="251" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1577769389966" />
+    <state width="1668" height="251" key="GridCell.Tab.0.center" timestamp="1577769389966">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1668" height="251" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1577741561770" />
-    <state width="1668" height="251" key="GridCell.Tab.0.left" timestamp="1577741561770">
+    <state width="1668" height="251" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1577769389966" />
+    <state width="1668" height="251" key="GridCell.Tab.0.left" timestamp="1577769389966">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1668" height="251" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1577741561770" />
-    <state width="1668" height="251" key="GridCell.Tab.0.right" timestamp="1577741561770">
+    <state width="1668" height="251" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1577769389966" />
+    <state width="1668" height="251" key="GridCell.Tab.0.right" timestamp="1577769389966">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1668" height="251" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1577741561770" />
+    <state width="1668" height="251" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1577769389966" />
     <state x="341" y="133" key="SettingsEditor" timestamp="1577635028651">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
