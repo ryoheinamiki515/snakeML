@@ -4,6 +4,7 @@ LEFT = 0
 RIGHT = 1
 UP = 2
 DOWN = 3
+directions = ["left", "right", "up", "down"]
 
 class Snake:
     def __init__(self, size):
@@ -31,3 +32,4 @@ class Snake:
 
     def update(self):
         self.body = self.body[-self.score:]
+

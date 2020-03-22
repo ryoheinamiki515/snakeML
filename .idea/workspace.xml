@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca663ad4-3b65-4fbf-98b9-d9d15ef0de4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snakeEnv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snakeGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakeGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snakeEnv.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakeEnv.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,30 +115,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1584" height="258" key="GridCell.Tab.0.bottom" timestamp="1584606973117">
+    <state width="1672" height="258" key="GridCell.Tab.0.bottom" timestamp="1584692216456">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1584" height="258" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1584606973117" />
-    <state width="1584" height="258" key="GridCell.Tab.0.center" timestamp="1584606973116">
+    <state width="1672" height="258" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1584692216456" />
+    <state width="1672" height="258" key="GridCell.Tab.0.center" timestamp="1584692216455">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1584" height="258" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1584606973116" />
-    <state width="1584" height="258" key="GridCell.Tab.0.left" timestamp="1584606973116">
+    <state width="1672" height="258" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1584692216455" />
+    <state width="1672" height="258" key="GridCell.Tab.0.left" timestamp="1584692216455">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1584" height="258" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1584606973116" />
-    <state width="1584" height="258" key="GridCell.Tab.0.right" timestamp="1584606973117">
+    <state width="1672" height="258" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1584692216455" />
+    <state width="1672" height="258" key="GridCell.Tab.0.right" timestamp="1584692216455">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="1584" height="258" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1584606973117" />
+    <state width="1672" height="258" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1584692216455" />
     <state x="341" y="133" key="SettingsEditor" timestamp="1577635028651">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
     <state x="341" y="133" key="SettingsEditor/0.23.1680.943@0.23.1680.943" timestamp="1577635028651" />
-    <state x="517" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1584594772377">
+    <state x="517" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1584781311913">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state x="517" y="327" key="com.intellij.ide.util.TipDialog/0.23.1680.943@0.23.1680.943" timestamp="1584594772377" />
+    <state x="517" y="327" key="com.intellij.ide.util.TipDialog/0.23.1680.943@0.23.1680.943" timestamp="1584781311913" />
     <state x="785" y="229" width="670" height="676" key="search.everywhere.popup" timestamp="1584598524235">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
